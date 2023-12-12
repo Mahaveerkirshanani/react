@@ -1,0 +1,28 @@
+
+.container{
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+.button{
+  color: white;
+  margin: 4px;
+  position: absolute;
+  top: 425px;
+  
+}
+
+.btn{
+  padding: 5px 8px;
+  margin: 1px;
+  border-radius: 10px;
+
+}
+
+.btn:hover{
+  border: 2px solid orangered;
+}
